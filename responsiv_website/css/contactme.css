@@ -1,0 +1,38 @@
+body{
+
+	background-image: url('http://prince48.net46.net/responsiv_website/img/net2.jpg');
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: 1600px, 968px;
+   background-attachment: fixed;
+}
+
+h2 {
+    
+    background-color: #000000;
+	padding: 0.5% 2% 0.5% 2%;
+	margin: 2% 10% 2% 5%;
+
+	border-radius:5px;
+    -moz-border-radius:5px;
+    -webkit-border-radius: 5px;
+}
+
+p{
+
+	margin: 2% 4% 2% 5%;
+}
+
+
+a {
+  margin-left: 4%;
+}
+
+#my_location {
+
+      
+	margin: 0% 25% 0% 5%;
+	border-radius:5px;
+    -moz-border-radius:5px;
+    -webkit-border-radius: 5px;
+}
